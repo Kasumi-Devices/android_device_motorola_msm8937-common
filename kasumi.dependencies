@@ -9,10 +9,6 @@
     "branch": "materium-v1"
    },
    {
-    "repository": "LineageOS/android_system_qcom",
-    "target_path": "system/qcom"
-   },
-   {
     "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola"
    }
